@@ -67,6 +67,45 @@ display: flex;
 gap: 10px;
 }
 
+.dess{
+    padding: 10px;
+    margin-right: 50px;
+}
+.flex5{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.sp1{
+
+    padding: 40px;
+    border-bottom: 1px solid var(--font-primary-color);
+}
+
+.sp2{
+  
+        padding: 40px;
+        border-bottom: 1px solid var(--font-primary-color);
+    }
+    .sp3{
+      
+            padding: 40px;
+            border-bottom: 1px solid var(--font-primary-color);
+        }
+
+     
+.flex6{
+    display: flex;
+    justify-content: space-between;
+   padding: 10px;
+}
+
+.flex7{
+    display: flex;
+    justify-content: space-between;
+   padding: 10px;
+}
+
 .flex4{
     background-color: blueviolet;
    
