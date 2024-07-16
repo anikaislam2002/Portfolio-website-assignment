@@ -1,0 +1,294 @@
+.Portfolio{
+    background-color: rgb(78, 64, 64);
+}
+
+
+.my-experience{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.intro{
+    padding: 60px;
+    padding-top: 160px;
+}
+
+.project1{
+    padding: 20px 20px;
+}
+.projects h1{
+    color: rgb(0, 0, 0);
+}
+
+.project2{
+    padding: 20px 20px;
+}
+.project1 img{
+
+    height: 70px;
+    width: 70px;
+}
+
+.project1 img{
+
+    height: 70px;
+    width: 70px;
+}
+
+.awards{
+    padding: 50px;
+}
+.Award h1 {
+    text-align: center;
+    font-weight: bolder;
+font-size: 30px;
+}
+.Award{
+    padding: 30px;
+}
+.Award p {
+    text-align: center;
+    padding-top: 20px;
+}
+.divi1{
+    background-color: black;
+    padding: 30px;
+}
+.div1{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+   
+}
+
+.space{
+    padding-top: 40px;
+}
+
+
+.ard2{
+    padding-top: 20px;
+}
+
+.divi2{
+    background-color: black;
+    padding: 30px;
+ 
+  
+}
+
+.div2{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+   
+.mid h1{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.mid p{
+    text-align: center;
+    padding: 20px;
+   
+
+}
+
+
+.tab{
+
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px;
+}
+.back1{
+    background-color: black;
+    padding: 10px;
+}
+
+.back2{
+    background-color: blueviolet;
+    padding: 10px;
+}
+.back3{
+    background-color: black;
+    padding: 10px;
+}
+
+.back4{
+    background-color: black;
+    padding: 10px;
+}
+
+.screen1{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+   
+}
+
+
+
+.picc img{
+
+    height: 350px;
+    width: 350px;
+
+}
+
+.screen1 h1{
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 5px;
+}
+
+
+.screen2{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    padding: 30px;
+   
+}
+
+.picc2 img{
+
+    height: 350px;
+    width: 350px;
+
+}
+
+.screen2 h1{
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 5px;
+}
+
+
+.midd{
+    padding: 30px;
+}
+.midd p{
+text-align: center;
+
+}
+
+.midd h1 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    }
+
+    .back5{
+        background-color: rgb(129, 88, 88);
+        padding: 50px;
+    }
+
+    .bold h1{
+        font-weight: bolder;
+    font-size: 30px;
+    text-transform: uppercase;
+    }
+
+    .nam{
+        display: flex;
+        justify-content: space-between;
+        
+    }
+    .nam1{
+        border-bottom: 1px solid var(--font-primary-color);
+        
+
+    }
+
+    .mail{
+        border-bottom: 1px solid var(--font-primary-color);
+
+    }
+    .nam p{
+
+        padding : 20px;
+        text-transform: uppercase;
+
+    }
+
+    .mess{
+text-transform: uppercase;
+padding: 20px;
+border-bottom: 1px solid var(--font-primary-color);
+
+    }
+
+    .filee{
+        text-transform: uppercase;
+padding: 20px;
+padding-bottom: 60px;
+    }
+
+.spacee{
+
+    display: flex;
+    gap: 10px;
+    
+}
+
+    .icon{
+        height: 20px;
+        width: 20px;
+        
+    }
+    .button{
+        padding: 20px;
+        background-color: rgb(109, 47, 47);
+        
+        width: fit-content;
+        
+       
+    }
+
+   
+    .logo-1 h1{
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 40px;
+        color: #ba0bf9;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding: 30px;
+font-weight: bolder;
+    }
+
+   
+    .flex {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+
+   
+    .add2{
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        padding: 30px;
+    }
+
+    .mid2{
+        background-color: black;
+        padding: 40px;
+        margin-top: 40px;
+    }
+
+    .flex1{
+        display: flex;
+        justify-content: center;
+        gap: 5px;
+        margin-top: 30px;
+        margin-bottom: 12px;
+    }
+
+    .color h3{
+        color: #ba0bf9;
+    }
